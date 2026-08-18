@@ -1,0 +1,170 @@
+{
+  "spider": "",
+  "wallpaper": "",
+  "sites": [
+    {
+      "key": "drpy_js_豆瓣",
+      "name": "🔥自用接口🔥",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1787074438064",
+      "name": "新浪云",
+      "type": 0,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlyun/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1787074461775",
+      "name": "虎牙云",
+      "type": 0,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hyyun/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1787074663422",
+      "name": "光速云",
+      "type": 0,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsyun/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1787074753306",
+      "name": "极速",
+      "type": 0,
+      "api": "https://jszyapi.com/api.php/provide/vod/from/jsyun/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1787074851217",
+      "name": "红牛云",
+      "type": 0,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnyun/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1787074897988",
+      "name": "如意云",
+      "type": 0,
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/from/ruyi/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1787074994878",
+      "name": "索尼",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1787075110437",
+      "name": "U酷",
+      "type": 1,
+      "api": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1787075223334",
+      "name": "快车",
+      "type": 1,
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1787075347510",
+      "name": "牛牛",
+      "type": 0,
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1787075480731",
+      "name": "豪华",
+      "type": 0,
+      "api": "https://hhzyapi.com/api.php/provide/vod/from/hhyun/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1787075777063",
+      "name": "魔都",
+      "type": 1,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1787075954622",
+      "name": "速播",
+      "type": 1,
+      "api": "https://subocj.com/api.php/provide/vod/from/subyun/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1787076069698",
+      "name": "无水印",
+      "type": 0,
+      "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "parses": [
+    {
+      "name": "新解析接口",
+      "type": 0,
+      "url": "",
+      "ext": {
+        "flag": [
+          "youku",
+          "qq",
+          "iqiyi",
+          "qiyi",
+          "letv",
+          "sohu",
+          "tudou",
+          "pptv",
+          "mgtv",
+          "wasu"
+        ]
+      }
+    }
+  ],
+  "lives": [
+    {
+      "name": "地方台",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.txt",
+      "epg": "https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/e.xml"
+    }
+  ]
+}
