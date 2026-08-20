@@ -8,3 +8,6 @@ https://gh-proxy.org/https://github.com/songlees355-wq/okay/blob/99485995dd35c47
 在线接口地址。有空再绑定域名。
 
 live.txt是直播源由于电脑坏了采集m3u8在手机上很费时间，只是简单添加了央视几个频道；不知道能不能持久使用，卫视台就没有添加,iptvchecker没有手机版不能保证线路可观性。
+
+https://gh-proxy.org/https://github.com/songlees355-wq/okay/blob/main/tvbox.json
+👆自用接口，🙅禁止商业用途，完全免费；切勿花钱购买。
