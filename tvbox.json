@@ -21,6 +21,15 @@
       "filterable": 1
     },
     {
+      "key": "site_1788023706071",
+      "name": "非凡",
+      "type": 0,
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/from/feifan/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "site_1787074461775",
       "name": "虎牙云",
       "type": 0,
