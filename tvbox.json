@@ -12,6 +12,15 @@
       "filterable": 1
     },
     {
+      "key": "site_1788070701483",
+      "name": "电影天堂",
+      "type": 0,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "site_1787074438064",
       "name": "新浪云",
       "type": 0,
