@@ -15,7 +15,7 @@
             "key": "site_1787074438064",
             "name": "🎞️电影天堂🎞️",
             "type": 1,
-            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
+            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list"
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
