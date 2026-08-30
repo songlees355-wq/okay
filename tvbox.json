@@ -12,22 +12,13 @@
       "filterable": 1
     },
     {
-            "key": "猫眼",
-            "name": "👀猫眼👀",
-            "type": 1,
-            "api": "https://api.maoyanapi.top/api.php/provide/vod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-    },
-    {
             "key": "site_1787074438064",
             "name": "🎞️电影天堂🎞️",
             "type": 1,
             "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
-            "categories": []
+            "filterable": 1
     },
     {
       "key": "site_1787074438064",
