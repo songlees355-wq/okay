@@ -20,13 +20,13 @@
       "quickSearch": 0
     },
     {
-    "key":"桃花资源",
-    "name":"🔞桃花资源",
-    "type":1,
-    "api":
-"https://thzy1.me/api.php/provide/vod/?ac=list",
-    "searchable":1,
-    "quickSearch":0
+      "key":"桃花资源",
+      "name":"🔞桃花资源",
+      "type":1,
+      "api":
+      "https://thzy1.me/api.php/provide/vod/?ac=list",
+      "searchable":1,
+      "quickSearch":0
     },
     {
       "key": "*乐播资源",
