@@ -14,3 +14,6 @@ https://gh-proxy.org/https://github.com/songlees355-wq/okay/blob/main/tvbox.json
 
 
 https://drive.google.com/file/d/1EEpVSfpQm16uLfBEqiBFtd-CLHyJsD_y/view?usp=drivesdk 弄了一个改版的tvbox黑盒内置版。内置的线路是👆面的tvbox.json，发现魔都线路被国内屏蔽了，用梯子可以看；直播里的东方卫视频道改成了广东卫视🥲还有些卫视频道无法观看。如果有好的直播源，希望尊贵的您能分享一下。
+
+接口在原来的基础上增加3个接口即福利接口，有广。可以随便扒，可以看多久不清楚。
+
