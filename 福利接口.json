@@ -24,8 +24,7 @@
     "key":"桃花资源",
     "name":"🔞桃花资源",
     "type":1,
-    "api":
-"https://thzy1.me/api.php/provide/vod/?ac=list",
+    "api":"https://thzy1.me/api.php/provide/vod/?ac=list",
     "searchable":1,
     "quickSearch":0
     },
@@ -57,7 +56,7 @@
     },
     
     {
-      "key":      "site_1788070701483",
+      "key": "site_1788070701483",
       "name": "电影天堂",
       "type": 0,
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
@@ -70,6 +69,15 @@
       "name": "天涯",
       "type": 1,
       "api": "https://ty.tyyszy5.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "site_1788302425440",
+      "name": "非凡",
+      "type": 0,
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
