@@ -1,5 +1,5 @@
 {
-  "spider": "",
+  "spider": "https://gh-proxy.org/https://github.com/songlees355-wq/okay/blob/main/jar/ceshi.jar",
   "wallpaper": "",
   "sites": [
     {
@@ -21,6 +21,15 @@
      "filterable":1 
     },
     {
+    "key":"桃花资源",
+    "name":"🔞桃花资源",
+    "type":1,
+    "api":
+"https://thzy1.me/api.php/provide/vod/?ac=list",
+    "searchable":1,
+    "quickSearch":0
+    },
+    {
       "key": "杏吧资源",
       "name": "🔞杏吧资源",
       "type": 0,
@@ -29,16 +38,7 @@
       "quickSearch": 0
     },
     {
-      "key":"桃花资源",
-      "name":"🔞桃花资源",
-      "type":1,
-      "api":
-      "https://thzy1.me/api.php/provide/vod/?ac=list",
-      "searchable":1,
-      "quickSearch":0
-    },
-    {
-      "key": "*乐播资源",
+      "key": "乐播资源",
       "name": "🔞乐播资源",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
@@ -47,7 +47,7 @@
       "filterable": 0
     },
     {
-      "key": "*番号资源",
+      "key": "番号资源",
       "name": "🔞番号资源",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
@@ -55,23 +55,33 @@
       "quickSearch": 0,
       "filterable": 0
     },
+    
     {
-      "key": "site_1788023706071",
-      "name": "非凡",
-      "type": 0,
-      "api": "http://api.ffzyapi.com/api.php/provide/vod/from/feifan/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key":  "site_1788070701483",
+      "key":      "site_1788070701483",
       "name": "电影天堂",
       "type": 0,
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "天涯",
+      "name": "天涯",
+      "type": 1,
+      "api": "https://ty.tyyszy5.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "豆瓣",
+      "name": "豆瓣",
+      "type": 1,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": []
     },
     {
       "key": "site_1787074438064",
@@ -189,6 +199,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "4k影视舱",
+      "name": "4k影视舱",
+      "type": 3,
+      "api":      "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+            "ext": "https://pic.12580.wang/f/X7Hz/lib/4k影视舱.json"
     },
     {
       "key": "site_1787076069698",
