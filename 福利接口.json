@@ -12,6 +12,15 @@
       "filterable": 1
     },
     {
+     "key":"百货资源",
+     "name":"🔞百货资源",
+     "type":1,            
+     "api":"https://ckbh1.xyz/api.php/provide/vod/?ac=list",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1
+}, 
+    {
       "key": "杏吧资源",
       "name": "🔞杏吧资源",
       "type": 0,
