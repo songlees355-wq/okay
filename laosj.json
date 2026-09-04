@@ -20,14 +20,13 @@
      "quickSearch":1,
      "filterable":1 
     },
-     {
-      "key": "site_1788506220298",
+    {
+      "key": "奥斯卡",
       "name": "奥斯卡",
       "type": 0,
       "api": "https://aosikazy1.com/api.php/provide/vod/at/xml",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "quickSearch": 0
     },
     {
     "key":"桃花资源",
