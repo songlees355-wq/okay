@@ -19,3 +19,4 @@ https://drive.google.com/file/d/1EEpVSfpQm16uLfBEqiBFtd-CLHyJsD_y/view?usp=drive
 感谢老御😃
 
 我发现福利接口有一条线路就是4k影视舱在tvbox不能用在影视仓和ok影视上可以用，😓可能是我技术不行，我在测试一下;经过测试tvbox白盒加载不出来。福利接口加载有点慢，耐心等待。
+laosj.json去掉了jar自定义接口缝合，好让空壳软件加载快点；省去了加载jar失败的显示。
