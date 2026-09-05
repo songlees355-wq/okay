@@ -23,3 +23,4 @@ laosj.json去掉了jar自定义接口缝合，好让空壳软件加载快点；�
 https://gh-proxy.org/https://github.com/songlees355-wq/okay/blob/main/laosj.json
 markdown
 ![https://github.com/songlees355-wq/okay/blob/main/images/qr-code.png](images/qr-code.png)
+👆接口地址二维码
