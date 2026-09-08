@@ -1,6 +1,6 @@
 老司机.txt用cinetry导入，你懂的。
 自用的json希望大神帮忙修改一下，直播只能看少量电视台，由于没有电脑操作，用手机在网上采集接口的，下载放到本地导入tvbox或者影视仓即可。（牛牛和快车线路有老司机福利）
-再发一个影视仓接口b站上获取的用了几年了http://tv.1788.space/    🫲接口地址此接口tvbox白盒用不了。
+
 
 zy.txt这个增加了加速，直播可以看一些港台频道，国际台可以看几个日本和新加坡频道。修复了无水印线路显示。有需要的朋友可以扒，没有增加jar；下载到手机然后推送到电视📺就可以用了，当然手机直接导入可以使用。切勿商业用，接口免费，切勿购买。
 https://gh-proxy.org/https://github.com/songlees355-wq/okay/blob/99485995dd35c474712a5e801166ec8334e4fdb7/zy.txt
@@ -13,14 +13,11 @@ https://gh-proxy.org/https://github.com/songlees355-wq/okay/blob/main/tvbox.json
 👆自用接口，🙅禁止商业用途，完全免费；切勿花钱购买。
 
 
-https://drive.google.com/file/d/1EEpVSfpQm16uLfBEqiBFtd-CLHyJsD_y/view?usp=drivesdk 弄了一个改版的tvbox黑盒内置版。内置的线路是👆面的tvbox.json，发现魔都线路被国内屏蔽了，用梯子可以看；直播里的东方卫视频道改成了广东卫视🥲还有些卫视频道无法观看。如果有好的直播源，希望尊贵的您能分享一下。
+https://drive.google.com/file/d/1EEpVSfpQm16uLfBEqiBFtd-CLHyJsD_y/view?usp=drivesdk 弄了一个改版的tvbox黑盒内置版。内置的线路是👆面的tvbox.json，
+接口在原来的基础上增加几个接口即福利接口，有广。https://gh-proxy.org/https://github.com/songlees355-wq/okay/blob/main/%E7%A6%8F%E5%88%A9%E6%8E%A5%E5%8F%A3.json  在线接口地址。
 
-接口在原来的基础上增加几个接口即福利接口，有广。可以随便扒，可以看多久不清楚。https://gh-proxy.org/https://github.com/songlees355-wq/okay/blob/main/%E7%A6%8F%E5%88%A9%E6%8E%A5%E5%8F%A3.json  在线接口地址。
 
-
-我发现福利接口有一条线路就是4k影视舱在tvbox不能用在影视仓和ok影视上可以用，😓可能是我技术不行，我在测试一下;经过测试tvbox白盒加载不出来。福利接口加载有点慢，耐心等待。
-laosj.json去掉了jar自定义接口缝合，好让空壳软件加载快点；省去了加载jar失败的显示。
 https://gh-proxy.org/https://github.com/songlees355-wq/okay/blob/main/laosj.json
-markdown
+
 ![https://github.com/songlees355-wq/okay/blob/main/images/qr-code.png](images/qr-code.png)
 👆接口地址二维码
