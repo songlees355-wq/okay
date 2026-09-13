@@ -18,4 +18,4 @@ https://drive.google.com/file/d/1EEpVSfpQm16uLfBEqiBFtd-CLHyJsD_y/view?usp=drive
 
 
 https://gh-proxy.org/https://github.com/songlees355-wq/okay/blob/main/laosj.json
-![image](https://github.com/songlees355-wq/okay/blob/main/images/qr-code.png)
+
