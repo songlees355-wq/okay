@@ -1073,6 +1073,7 @@ ViuTV,mitv://135.148.104.228:19806/956aa1340cd5439689da84cff7a5eaae
 三立新闻台,https://stream1.freetv.fun/san-li-xin-wen-6.ctv
 三立综合台,https://ha.msbot.dpdns.org/4gtv_api.php?id=169
 三立综合台,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=vrp4No&tk=SLK5QjnsRiya
+大立TV,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 中天娱乐台,https://t.freetv.fun/live/zhong-tian-yu-le.m3u8
 中天娱乐台,https://t.freetv.fun/live/zhong-tian-yu-le-1.m3u8
 中天娱乐台,http://61.221.215.25:8800/hls/47/index.m3u8
@@ -1923,7 +1924,13 @@ CN卡通,http://31.43.191.125:8080/VIP019301734188047280/7bce5254f13d/34927
 
 
 国际台,#genre#
+泰国new,https://server1.streamssl.com/stream/news1.m3u8
+法国台,https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+英国户外运动频道,https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+英国赛车,https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 AlabbassiaTV,https://stream.alabbassia.com/live/alabbassia/index.m3u8
+英国扑克频道,https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8
+澳大利亚赛马频道,https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
 BBC,https://stream1.freetv.fun/bbc-news-5.m3u8
 BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
