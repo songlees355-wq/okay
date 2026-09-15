@@ -19,3 +19,4 @@ https://drive.google.com/file/d/1EEpVSfpQm16uLfBEqiBFtd-CLHyJsD_y/view?usp=drive
 
 https://gh-proxy.org/https://github.com/songlees355-wq/okay/blob/main/laosj.json
 
+uzn.txt里面有新壳的接口地址
