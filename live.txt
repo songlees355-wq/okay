@@ -1466,7 +1466,7 @@ TVB星河,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
 TVB星河,http://o11.163189.xyz/stream/live/tvbxh/
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/#https://cdn10.163189.xyz/stream/163189/xinghe/
-TVB翡翠台,https://t.freetv.fun/live/fei-cui-3.m3u8
+TVB翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 TVB翡翠台,https://t.freetv.fun/live/fei-cui.m3u8
 TVB翡翠台,https://t.freetv.fun/live/fei-cui-1.m3u8
 TVB翡翠台,https://t.freetv.fun/live/fei-cui-2.m3u8
@@ -1608,7 +1608,7 @@ ViuTV,mitv://135.148.104.228:19806/956aa1340cd5439689da84cff7a5eaae
 中视菁采台,https://stream1.freetv.fun/zhong-shi-jing-cai-5.ctv
 中视菁采台,https://stream1.freetv.fun/zhong-shi-jing-cai-4.ctv
 中视菁采台,https://t.freetv.fun/live/zhong-shi-jing-cai.ts
-民视,https://t.freetv.fun/live/min-shi-2.m3u8
+民视,http://211.72.174.95:8115/0.ts
 民视,http://74.91.26.218:82/live/ftv.m3u8
 民视,https://stream1.freetv.fun/min-shi-1.m3u8
 民视,https://stream1.freetv.fun/min-shi-6.ctv
@@ -1634,8 +1634,10 @@ ViuTV,mitv://135.148.104.228:19806/956aa1340cd5439689da84cff7a5eaae
 民视台湾台,https://ha.msbot.dpdns.org/4gtv_api.php?id=2
 民视台湾台,https://t.freetv.fun/live/min-shi-tai-wan.ts
 民视影剧台,https://t.freetv.fun/live/min-shi-ying-ju.m3u8
-民视影剧台,https://ha.msbot.dpdns.org/4gtv_api.php?id=24
-民视影剧台,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=Wkf0va&tk=SLK5QjnsRiya
+华视高清
+http://220.135.241.47:8317/0.ts
+台视高清
+http://211.72.174.95:8112/0.ts
 民视影剧台,http://45.192.97.170:8880/play/1183.m3u8
 民视影剧台,https://t.freetv.fun/live/min-shi-ying-ju.php
 民视新闻台,https://t.freetv.fun/live/min-shi-xin-wen-2.m3u8
