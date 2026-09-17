@@ -62,7 +62,34 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },    
+    }, 
+    {
+       "key": "猫眼",
+       "name": "猫眼",
+       "type": 1,
+       "api": "https://api.maoyanapi.top/api.php/provide/vod",             
+       "searchable": 1,
+       "quickSearch": 1,
+       "categories": []
+    },
+    {
+        "key": "暴风",
+        "name": "暴风",
+        "type": 1,
+        "api": "https://bfzyapi.com/api.php/provide/vod",
+        "searchable": 1,           
+        "quickSearch": 1,          
+        "categories": []
+    },
+    {
+      "key":  "site_1789643682508",
+      "name": "新浪",
+      "type": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "site_1788070701483",
       "name": "电影天堂",
