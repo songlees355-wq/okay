@@ -54,7 +54,16 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
-    }, 
+    },
+    {
+      "key":  "茅台",
+      "name": "茅台",
+      "type": 1,
+      "api": "https://caiji.maotai999.vip/api.php/provide/vod/at/josn/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },   
     {
       "key":  "site_1788070701483",
       "name": "电影天堂",
