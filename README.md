@@ -5,7 +5,7 @@ live.txt是直播源由于电脑坏了采集m3u8在手机上很费时间，只�
 
 
 弄了一个改版的tvbox黑盒内置版。https://drive.google.com/file/d/1XQUJfsjsy5P_fdsksBhbdl7fsX_z9T7F/view?usp=drivesdk
-接口在原来的基础上增加几个接口即福利接口,之前忘记云盘共享现在重新上传方便下载，内置地址是laosj.json。其实内置tvbox黑盒网上有教程，白盒内置我不会；会了再上传。
+接口在原来的基础上增加几个接口即福利接口,之前忘记云盘共享现在重新上传方便下载，内置地址是laosj.json。其实内置tvbox黑盒网上有教程，白盒内置我不会；会了再上传。内置接口没有jar的
 。https://gh-proxy.org/https://github.com/songlees355-wq/okay/blob/main/%E7%A6%8F%E5%88%A9%E6%8E%A5%E5%8F%A3.json  在线接口地址。
 
 
