@@ -75,6 +75,33 @@
       "filterable": 1
     },
     {
+      "key": "黑料",
+      "name": "🔞黑料",
+      "type": 1,
+      "api": "https://heiliaozyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "豆豆",
+      "name": "🔞豆豆",
+      "type": 1,
+      "api": "https://api.douapi.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "小鸡资源",
+      "name": "🔞小鸡资源",
+      "type": 1,
+      "api": "https://api.xiaojizy.live/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key":  "大众",
       "name": "大众",
       "type": 1,
