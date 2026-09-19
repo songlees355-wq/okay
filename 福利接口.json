@@ -37,6 +37,16 @@
       "quickSearch": 0
     },
     {
+      "key":   "大奶子",
+      "name": "🔞大奶子",
+      "type": 1, 
+      "api":
+      "https://apidanaizi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "乐播资源",
       "name": "🔞乐播资源",
       "type": 1,
