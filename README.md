@@ -12,4 +12,4 @@ live.txt是直播源由于电脑坏了采集m3u8在手机上很费时间，只�
 https://gh-proxy.org/https://github.com/songlees355-wq/okay/blob/main/laosj.json
 
 uzn.txt里面有新壳的接口地址。 直播哪里把翡翠台 台湾频道修复了,国际台也增加几个频道。巨量线路有好多影视都没得看，所以删了，奶香香线路想加进去；但是,被封。删除了CCTV5 和CCTV5+频道
-free.txt是基于网上采集的接口；去除了福利线路，完全免费，切勿购买。
+free.txt是基于网上采集的接口；去除了福利线路，完全免费，切勿购买。https://gh-proxy.org/https://github.com/songlees355-wq/okay/blob/main/free.txt
