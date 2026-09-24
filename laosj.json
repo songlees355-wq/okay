@@ -100,6 +100,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },{
+      "key": "site_1788302425440",
+      "name": "非凡",
+      "type": 0,
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "360资源",
