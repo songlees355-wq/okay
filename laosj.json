@@ -3,7 +3,7 @@
   "wallpaper": "",
   "sites": [
     {
-      "key": "drpy_js_豆瓣",
+      "key": "量子",
       "name": "🔥量子🔥",
       "type": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/at/xml/",
@@ -97,6 +97,15 @@
       "name": "🔞小鸡资源",
       "type": 1,
       "api": "https://api.xiaojizy.live/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key":  "西瓜🍉",
+      "name": "西瓜🍉",
+      "type": 0,
+      "api": "https://caiji.xgzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
