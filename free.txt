@@ -21,6 +21,15 @@
       "filterable": 1
     },
     {
+      "key":  "西瓜🍉",
+      "name": "西瓜🍉",
+      "type": 0,
+      "api": "https://caiji.xgzyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "海豚",
       "name": "海豚资源",
       "type": 1,
