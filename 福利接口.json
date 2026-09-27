@@ -101,6 +101,25 @@
       "filterable": 1
     },
     {
+      "key": "海豚",
+      "name": "海豚资源",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": []
+    },
+    {
+      "key": "site_1790518818898",
+      "name": "金鹰",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "360资源",
       "name": "360资源",
       "type": 1,
