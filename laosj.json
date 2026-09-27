@@ -100,11 +100,31 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },{
+    },
+    {
       "key": "site_1788302425440",
       "name": "非凡",
       "type": 0,
       "api": "http://api.ffzyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "海豚",
+      "name": "海豚资源",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": []
+    },
+    {
+      "key": "site_1790518818898",
+      "name": "金鹰",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
