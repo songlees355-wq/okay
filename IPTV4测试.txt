@@ -3238,8 +3238,6 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/177.m3u8
 运城科技教育,https://stream1.freetv.fun/yun-cheng-ke-ji-jiao-yu-1.m3u8
 
 
-云南频道,#genre#
-
 
 北京频道,#genre#
 北京新闻,http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
@@ -3678,8 +3676,6 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/177.m3u8
 赣州新闻综合,https://t.freetv.fun/live/gan-zhou-xin-wen-zong-he-1.m3u8
 
 
-宁夏频道,#genre#
-
 
 青海频道,#genre#
 安多卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
@@ -3809,12 +3805,6 @@ Discovery,http://ott.watch/stream/E9LDH2ZCN7/177.m3u8
 
 春晚,#genre#
 春晚2023,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
-
-
-直播中国,#genre#
-上海南浦大桥,https://gctxyc.liveplay.myqcloud.com/gc/tjhh01_1/index.m3u8
-新疆天山(定海神针),http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8
-黄花城水长城02,http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
 
 
 MTV,#genre#
