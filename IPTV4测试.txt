@@ -1769,23 +1769,11 @@ ELEVEN体育2,https://stream1.freetv.fun/eltaai-er-da-ti-yu--2--wj-1.ctv
 魅力足球,https://stream1.freetv.fun/mei-li-zu-qiu-3.m3u8
 魅力足球,http://t.061899.xyz/tl/tl.php?id=mlzq
 魅力足球,http://dassby.qqff.top:99/live/快乐垂钓/index.m3u8
-魅力足球,http://8.138.7.223/tv/migu3.php?id=mlzq
-
-
-咪咕直播,#genre#
-咪咕视频,http://kkk.888.3116598.xyz/api.php?n=tttt&id=bRumHS&tk=FgM0vQMejxvG
-咪咕体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-咪咕体育,https://t.freetv.fun/live/mi-gu-ti-yu.m3u8
-咪咕体育,https://t.freetv.fun/live/mi-gu-ti-yu-1.m3u8
 
 游戏频道,#genre#
 游戏风云,http://t.061899.xyz/tl/tl.php?id=yxfy
 游戏风云,http://dassby.qqff.top:99/live/游戏风云/index.m3u8
 游戏风云,http://8.138.7.223/tv/migu3.php?id=yxfy
-
-
-解说频道,#genre#
-
 
 儿童频道,#genre#
 CN卡通,https://stream1.freetv.fun/cnqia-tong-3.ctv
@@ -1934,6 +1922,7 @@ CN卡通,http://31.43.191.125:8080/VIP019301734188047280/7bce5254f13d/34927
 
 
 国际台,#genre#
+意大利Kiss,https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 俄罗斯联邦，http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 泰国news,https://server1.streamssl.com/stream/news1.m3u8
 法国台,https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
