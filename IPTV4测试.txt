@@ -1922,6 +1922,7 @@ CN卡通,http://31.43.191.125:8080/VIP019301734188047280/7bce5254f13d/34927
 
 
 国际台,#genre#
+韩国Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 意大利Kiss,https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 俄罗斯联邦，http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 泰国news,https://server1.streamssl.com/stream/news1.m3u8
