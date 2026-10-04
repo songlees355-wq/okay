@@ -892,7 +892,7 @@ CETV4,http://1.82.144.44:4022/rtp/239.111.205.169:5140
 
 港澳台,#genre#
 凤凰中文,https://stream1.freetv.fun/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c4c9d7cec4a0.m3u8
-凤凰中文,https://t.freetv.fun/live/feng-huang-wei-shi-2.m3u8
+凤凰中文,http://156.238.224.170:7001/fhx.php?id=cn
 凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-4.m3u8
 凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
 凤凰中文,https://t.freetv.fun/live/feng-huang-wei-shi-1.m3u8
