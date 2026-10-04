@@ -1,8 +1,5 @@
 老司机.txt用cinetry导入，你懂的。
-iptv测试.txt就是电视📺直播地址。
-
-
-live.txt是直播源由于电脑坏了采集m3u8在手机上很费时间，只是简单添加了央视几个频道；不知道能不能持久使用，卫视台就没有添加,iptvchecker没有手机版不能保证线路可观性。
+iptv测试.txt就是电视📺直播地址。最新修复了CCTV5, CCTV5+, CCTV6,凤凰中文台。直播哪里把翡翠台 台湾频道修复了,国际台也增加几个频道。
 
 之前的导致加载不了接口地址，现在重新整理好上传了😁
 改版的tvbox黑盒内置版,用mcafee扫描报病毒，打算取消项目了。用麦克匪杀毒扫tvbox黑盒版也报病毒，怕安全隐患可以不下载。
@@ -12,5 +9,5 @@ live.txt是直播源由于电脑坏了采集m3u8在手机上很费时间，只�
 
 https://gh-proxy.org/https://github.com/songlees355-wq/okay/blob/main/laosj.json
 
-uzn.txt里面有新壳的接口地址。 直播哪里把翡翠台 台湾频道修复了,国际台也增加几个频道。巨量线路有好多影视都没得看，所以删了，奶香香线路想加进去；但是,被封。删除了CCTV5 和CCTV5+频道
+uzn.txt里面有新壳的接口地址。
 free.txt是基于网上采集的接口；去除了福利线路，完全免费，切勿购买。https://gh-proxy.org/https://github.com/songlees355-wq/okay/blob/main/free.txt
