@@ -1934,7 +1934,8 @@ CN卡通,http://31.43.191.125:8080/VIP019301734188047280/7bce5254f13d/34927
 
 
 国际台,#genre#
-泰国new,https://server1.streamssl.com/stream/news1.m3u8
+俄罗斯联邦，http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+泰国news,https://server1.streamssl.com/stream/news1.m3u8
 法国台,https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 英国户外运动频道,https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 英国赛车,https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
