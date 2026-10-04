@@ -3,8 +3,17 @@ CCTV1,http://173.208.212.130:8181/720p/cctv1.m3u8
 CCTV2,http://173.208.212.130:8181/720p/cctv2.m3u8
 CCTV3,http://69.30.245.50/live/cctv3.m3u8
 CCTV4,http://69.30.245.50/live/cctv4.m3u8
+CCTV5,http://219.147.245.238:25480/newlive/live/hls/5/live.m3u8
+CCTV5,http://58.56.162.102:4466/newlive/live/hls/5/live.m3u8
+CCTV5,http://113.57.140.161:10081/newlive/live/hls/5/live.m3u8
+CCTV5,http://112.30.73.119:229/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://112.27.145.212:9902/tsfile/live/1504_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://120.76.248.139/live/bfgd/4200000064.m3u8
 CCTV5+,http://173.208.212.130:8181/720p/cctv5p.m3u8
+CCTV6,http://219.147.245.238:25480/newlive/live/hls/7/live.m3u8
+CCTV6,http://113.57.140.161:10081/newlive/live/hls/7/live.m3u8
+CCTV6,http://58.56.162.102:4466/newlive/live/hls/7/live.m3u8
+CCTV6,http://111.59.24.227:8181/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://120.76.248.139/live/bfgd/4200000065.m3u8
 CCTV6,http://69.30.245.50/live/cctv6.m3u8
 CCTV7,http://69.30.245.50/live/cctv7.m3u8
