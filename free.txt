@@ -10,7 +10,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },   
+    },
+    {
+      "key": "飘零资源",
+      "name": "飘零资源",
+      "type": 1,
+      "api": "https://p2100.net/api.php/provide/vod",
+      "searchable": 1,          
+      "quickSearch": 1,         
+      "categories": []
+    },
     {
       "key":  "site_1788420456236",
       "name": "爱奇艺",
