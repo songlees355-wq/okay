@@ -101,6 +101,15 @@
       "filterable": 1
     },
     {
+      "key": "飘零资源",
+      "name": "飘零资源",
+      "type": 1,
+      "api": "https://p2100.net/api.php/provide/vod",
+      "searchable": 1,          
+      "quickSearch": 1,         
+      "categories": []
+    },
+    {
       "key":  "西瓜🍉",
       "name": "西瓜🍉",
       "type": 0,
