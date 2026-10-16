@@ -12,6 +12,37 @@
       "filterable": 1
     },
     {
+    "key": "lsbzy",     
+    "name": "🔞老色b",     
+    "type": 1, 
+    "api": "https://apilsbzy1.com/api.php/provide/vod", 
+    "searchable": 1,   
+    "quickSearch": 1
+   },
+   {
+    "key": "hsckzy",    
+    "name": "🔞HS资源",
+    "type": 1, 
+    "api": "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/json",   "searchable": 1,  
+    "quickSearch": 1
+    },
+    {
+     "key": "bhzy",   
+     "name": "🔞百花资源",
+     "type": 1, 
+     "api": "https://bhziyuan.com/api.php/provide/vod/?ac=list", 
+     "searchable": 1,       
+     "quickSearch": 1
+    },
+    {
+     "key": "155zy", 
+     "name": "🔞155资源", 
+     "type": 1, 
+     "api": "https://155api.com/api.php/provide/vod",
+     "searchable": 1,    
+     "quickSearch": 1
+    },
+    {
      "key":"百货资源",
      "name":"🔞百货资源",
      "type":1,            
