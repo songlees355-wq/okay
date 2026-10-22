@@ -413,16 +413,6 @@
       "filterable": 1
     },
     {
-      "key": "4k影视舱",
-      "name": "4k影视舱",
-      "type": 3,
-      "api":  "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://pic.12580.wang/f/X7Hz/lib/4k影视舱.json"
-    },
-    {
       "key": "site_1787076069698",
       "name": "无水印",
       "type": 1,
