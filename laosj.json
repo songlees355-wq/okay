@@ -12,6 +12,22 @@
       "filterable": 1
     },
     {
+     "key": "🔞滴滴资源",
+     "name": "🔞滴滴资源",
+     "type": 1,
+     "api": "https://api.ddapi.cc/api.php/provide/vod/",
+     "searchable": 1,
+     "quickSearch": 1
+     },
+     {
+     "key": "🔞souav资源",
+     "name": "🔞souav资源",
+     "type": 1,
+     "api": "https://api.souavzyw.net/api.php/provide/vod/",
+     "searchable": 1,
+     "quickSearch": 1
+    },
+    {
     "key": "lsbzy",     
     "name": "🔞老色b",     
     "type": 1, 
