@@ -1,6 +1,6 @@
 
 
-新增加了直播午夜频道。尽量在午夜观看。
+新增加了直播午夜频道。潘多拉完美，惊艳和松视尽量在午夜观看，ou1系列不论白天和午夜都有节目。
 
 https://gh-proxy.org/https://github.com/songlees355-wq/okay/blob/main/%E5%9B%BD%E5%A4%96%E7%94%B5%E8%A7%86%E5%8F%B02026.txt
 国外直播源
@@ -8,11 +8,9 @@ https://gh-proxy.org/https://github.com/songlees355-wq/okay/blob/main/%E5%9B%BD%
 https://gh-proxy.org/https://github.com/songlees355-wq/okay/blob/main/IPTV4%E6%B5%8B%E8%AF%95.txt
 国内直播源-iptv测试那个文件
 
-新增了直播，默认是国外电视台；如果你想切换国内原有的直播，📺遥控器按菜单键-多源切换就可以了🤣。手机的就按住右边2秒✌️选多源切换，如果是黑盒版就不能切换了🥲 fongmi影视切换方式是点击⚙️设置里的直播地址的小房子🏠。 翡翠台又失效，单仓接口地址不是架设在服务器上，所以加载速度有点慢。
+翡翠台又失效，单仓接口地址不是架设在服务器上，所以加载速度有点慢。
 
-老司机.txt用cinetry导入，你懂的。
-iptv测试.txt就是电视📺直播地址。最新修复了CCTV5, CCTV5+, CCTV6,凤凰中文台。 台湾频道修复了（大立TV,中视，民视）国际台也增加几个频道-半岛电视台也可以播放😁英国赛车频道分辨率有点差😅。国外电视台2026txt采集于kodi中文网👀不保证频道观赏性
-。https://gh-proxy.org/https://github.com/songlees355-wq/okay/blob/main/%E7%A6%8F%E5%88%A9%E6%8E%A5%E5%8F%A3.json  在线接口地址。
+老司机.txt用cinetry导入，你懂的。https://gh-proxy.org/https://github.com/songlees355-wq/okay/blob/main/%E7%A6%8F%E5%88%A9%E6%8E%A5%E5%8F%A3.json  在线接口地址。
 导入接口时，不要挂梯子🌝
 
 https://gh-proxy.org/https://github.com/songlees355-wq/okay/blob/main/laosj.json
