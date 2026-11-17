@@ -2,6 +2,8 @@
 
 新增加了直播午夜频道。潘多拉完美，惊艳和松视尽量在午夜观看，ou1系列不论白天和午夜都有节目。不可以回看和快进，因为是电视台不支持。
 
+uzn配置接口.txt不要直接导入，打开后复制里面的地址。
+
 https://gh-proxy.org/https://github.com/songlees355-wq/okay/blob/main/%E5%9B%BD%E5%A4%96%E7%94%B5%E8%A7%86%E5%8F%B02026.txt
 国外直播源
 
