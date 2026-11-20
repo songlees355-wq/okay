@@ -244,7 +244,7 @@
       "key":  "site_1788070701483",
       "name": "电影天堂",
       "type": 0,
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
+      "api": "https://api.dyttcj.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
