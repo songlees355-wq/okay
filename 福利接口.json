@@ -39,7 +39,8 @@
     "key": "hsckzy",    
     "name": "🔞HS资源",
     "type": 1, 
-    "api": "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/json",   "searchable": 1,  
+    "api": "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/json",  
+    "searchable": 1,  
     "quickSearch": 1
     },
     {
